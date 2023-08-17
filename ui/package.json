@@ -8,7 +8,7 @@
   "dependencies": {
     "@types/react": "^16.8.1",
     "@types/react-dom": "^16.8.1",
-    "azure-devops-extension-api": "^1.158.0",
+    "azure-devops-extension-api": "^2.0.0",
     "azure-devops-extension-sdk": "^2.0.11",
     "azure-devops-ui": "^2.167.33",
     "azure-pipelines-task-lib": "^3.2.0",
